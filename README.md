@@ -6,7 +6,7 @@ Built with [Nerd Fonts Patcher](https://github.com/ryanoasis/nerd-fonts#font-pat
 
 ## Installation
 1. Clone repository (get .ttf files)
-2. Install font on your system
+2. Install font on your system, it will be available as `RecMonoLinear Nerd Font`
 
 Windows Terminal screenshot
 ![windows terminal image windows subsystem for linux](windows-terminal.png "Windows Terminal")
