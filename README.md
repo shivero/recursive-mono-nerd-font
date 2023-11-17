@@ -8,4 +8,5 @@ Built with [Nerd Fonts Patcher](https://github.com/ryanoasis/nerd-fonts#font-pat
 1. Clone repository (get .ttf files)
 2. Install font on your system
 
+Windows Terminal screenshot
 ![windows terminal image windows subsystem for linux](windows-terminal.png "Windows Terminal")
