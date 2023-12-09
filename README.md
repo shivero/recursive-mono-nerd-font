@@ -1,4 +1,4 @@
-# recursive-mono-nerd-font
+# Recursive Mono Linear Nerd Font
 Patched versions of Recursive Mono font with Nerd Fonts glyphs. 
 
 It contains all glyphs from the [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) including powerline symbols, fontawesome icons and others.
